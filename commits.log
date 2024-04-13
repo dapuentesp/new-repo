@@ -1,0 +1,100 @@
+commit 34f89d0a34f5e2bd2a583e79b8abc89c1f6ec303
+Merge: 00d5a22 4fe654c
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 23:22:36 2024 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 4fe654ca76f52d5fc3e93191eb0280f60b3ab413
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 23:12:11 2024 -0500
+
+    Agregando index.js al index.html
+
+commit 00d5a2289daefd381d8d1caeeff961c8aaef1317
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 23:03:49 2024 -0500
+
+    Agragando style.css al index.html
+
+commit aa59e16bf063509a902950bdcef4c688286f648c
+Merge: 7355521 95d0e28
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 22:36:21 2024 -0500
+
+    Merge branch 'js'
+    Fusionando las ramas secundarias con la rama main
+
+commit 95d0e289b2562b3c416449ec1230fbb61ea02a2f
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 22:16:26 2024 -0500
+
+    Creando archivo index.js
+
+commit 7355521ff9cf1dcb0a7166eba717870a7f6a0e25
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 22:06:58 2024 -0500
+
+    Creando style.css
+
+commit 9a1b6432d31dad2b158b4657e8a888e9cd75e896
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 21:57:42 2024 -0500
+
+    Creando archivo index.html
+
+commit 3d0930de903a2aa347dfa67628f514a9d046e41f
+Merge: ce2eef8 d0a2167
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 21:52:11 2024 -0500
+
+    Agregando más contenido
+
+commit ce2eef85e0775da9f1385ef58e4197be6cc4f6b6
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 21:49:30 2024 -0500
+
+    Agregando contenido al README
+
+commit d0a216740141aa094a233f599d204017a3c588af
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 21:49:30 2024 -0500
+
+    Agregando contenido al README
+
+commit a21d3841b5316f74498b246a2d9fcb946237c341
+Merge: ebade90 1f1e3f9
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 21:47:33 2024 -0500
+
+    Merge branch 'main' of https://github.com/dapuentesp/new-repo
+
+commit ebade9072f47275ece0d58d6867851f696fd72d3
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 15:32:24 2024 -0500
+
+    Ignorando archivos .exe
+
+commit 1f1e3f94a3f859b70d1e5923a4129b12b160eaa6
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 15:32:24 2024 -0500
+
+    Ignorando archivos .exe
+
+commit 8ef05b46ba4ee03f2c49763b1e99cda71c9e2809
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 15:12:01 2024 -0500
+
+    Añadiento contenido al README
+
+commit 30ee9f8455828538a07e50e33b729aea24a8fd85
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 15:09:26 2024 -0500
+
+    Create license.txt
+
+commit 92e4a312fb17f15113279bd006a88a14d8ea489e
+Author: Diego Puentes <dapuentesp@gmail.com>
+Date:   Fri Apr 12 15:05:35 2024 -0500
+
+    first commit

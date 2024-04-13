@@ -1,0 +1,25 @@
+*   34f89d0 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 4fe654c Agregando index.js al index.html
+* | 00d5a22 Agragando style.css al index.html
+* |   aa59e16 Merge branch 'js' Fusionando las ramas secundarias con la rama main
+|\ \  
+| * | 95d0e28 Creando archivo index.js
+* | | 7355521 Creando style.css
+| |/  
+|/|   
+* | 9a1b643 Creando archivo index.html
+|/  
+*   3d0930d Agregando más contenido
+|\  
+| * d0a2167 Agregando contenido al README
+* | ce2eef8 Agregando contenido al README
+|/  
+*   a21d384 Merge branch 'main' of https://github.com/dapuentesp/new-repo
+|\  
+| * 1f1e3f9 Ignorando archivos .exe
+* | ebade90 Ignorando archivos .exe
+|/  
+* 8ef05b4 Añadiento contenido al README
+* 30ee9f8 Create license.txt
+* 92e4a31 first commit
